@@ -7,6 +7,20 @@ params:
   author: M. Inam
   email : inam@mail.com
   tel: +41465656656
+  address:  'Lorem ipsum <br>
+   dolor sit amet <br>
+   consectetur adipisicing elit'
+  timings:
+    - day:  Monday
+      time: 10:00-17:00
+    - day:  Tuesday
+      time: 10:00-17:00
+    - day:  Wednesday
+      time: 10:00-17:00
+    - day:  Thursday
+      time: 10:00-17:00
+    - day:  Friday
+      time: 10:00-17:00
 # build and other other setup
 build:
   writeStats: true

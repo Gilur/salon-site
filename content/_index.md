@@ -41,21 +41,4 @@ section2:
       text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis voluptatibus eius, natus odit enim ratione a ab
     - name: ongeveer 2 jaar geleden door **Lilou 3**
       text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis voluptatibus eius, natus odit enim ratione a ab
-
-section3:
-  heading: Contact us
-  address:  'Lorem ipsum <br>
-   dolor sit amet <br>
-   consectetur adipisicing elit'
-  timings:
-    - day:  Monday
-      time: 10:00-17:00
-    - day:  Tuesday
-      time: 10:00-17:00
-    - day:  Wednesday
-      time: 10:00-17:00
-    - day:  Thursday
-      time: 10:00-17:00
-    - day:  Friday
-      time: 10:00-17:00
 ---
