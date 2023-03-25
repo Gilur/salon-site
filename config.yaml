@@ -1,5 +1,5 @@
-baseURL: "http://example.org/"
-languageCode: "en-us"
+baseURL: "/"
+languageCode: "nl"
 title: "Site Title"
 
 # Params
