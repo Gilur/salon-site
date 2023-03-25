@@ -3,7 +3,7 @@
     <div class="flex justify-between flex-wrap gap-y-8">
       <div class="space-y-4">
         <h3 class="text-xl font-bold">Address</h3>
-        <address>{{markdownify .Site.Params.section3.address}}</address>
+        <address>{{markdownify .Site.Params.address}}</address>
       </div>
       <div class="space-y-4">
         <h3 class="text-xl font-bold">Contact</h3>
@@ -28,7 +28,7 @@
         <h3 class="text-xl font-bold">Openingstijden</h3>
         <table>
           <tbody>
-            {{range .Site.Params.section3.timings}}
+            {{range .Site.Params.timings}}
             <tr>
               <td><b>{{.day}}</b></td>
               <td class="pl-2">{{.time}}</td>
