@@ -1,0 +1,71 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Site Title"
+
+# Params
+params:
+  author: M. Inam
+  email : inam@mail.com
+  tel: +41465656656
+# build and other other setup
+build:
+  writeStats: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+# Menus
+# sectionPagesMenu: main
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: Over Ons
+      url: 
+      weight: 20
+    - name: Portfolio
+      url: 
+      weight: 30
+    - name: Afspeak Maken
+      url: 
+      weight: 40
+    - name: Shop
+      url: 
+      weight: 50
+    - name: Contact
+      url: 
+      weight: 60
+  social:
+    - name: Facebbok
+      url: /
+      pre: linkedin.svg
+      weight: 10
+    - name: Twitter
+      url: 
+      pre: linkedin.svg
+      weight: 20
+    - name: Instagram
+      url: 
+      pre: linkedin.svg
+      weight: 30
+
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow:
+      - ^dart-sass-embedded$
+      - ^go$
+      - ^npx$
+      - ^babel$
+      - ^postcss$
+    osEnv:
+      - (?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$
+  funcs:
+    getenv:
+      - ^HUGO_
+  http:
+    methods:
+      - (?i)GET|POST
+    urls:
+      - .*
