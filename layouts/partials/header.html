@@ -1,4 +1,6 @@
-<header class="bg-black text-white py-4">
+<header class="text-white py-4 relative"
+  style="background: url(/{{((.Resources.GetMatch .Params.image))}}) no-repeat;background-size:cover;">
+  <div class="absolute left-0 top-0 w-full h-full bg-black bg-opacity-20"></div>
   <div class="container flex justify-between items-center">
     <div class="">
       <ul class="flex gap-2 lg:gap-4">
@@ -14,10 +16,10 @@
     </div>
     <nav id="mainnav"
       class="fixed lg:static bg-black bg-opacity-50 pt-12 lg:pt-0 shadow-xl lg:shadow-none w-full lg:w-auto left-0 top-0 transform -translate-y-full lg:translate-y-0 transition">
-      <ul class="lg:flex lg:space-x-8 lg:text-lg">
+      <ul class="lg:flex lg:text-lg">
         {{ range .Site.Menus.main -}}
         <li>
-          <a href="{{.URL}}" class="py-4 px-8 lg:px-0 flex lg:hover:text-primary">
+          <a href="{{.URL}}" class="py-4 px-8 lg:px-4 flex lg:hover:text-primary">
             {{ .Name }}
           </a>
         </li>
