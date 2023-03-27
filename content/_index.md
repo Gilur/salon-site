@@ -25,13 +25,13 @@ section1:
 section2:
   heading: Meet the team
   card:
-    - img: "pexels-airam-datoon-15883131.jpg"
+    - img: "giul.png"
       title: Guilia
       text: Kleur & Hairextension Specialist
-    - img: "pexels-airam-datoon-15883131.jpg"
+    - img: "echika-salon.png"
       title: Echika
       text: Hairextension & Haarwerk Specialist
-    - img: "pexels-airam-datoon-15883131.jpg"
+    - img: "kim.png"
       title: Kim
       text: Hairextension Specialist.
   reviews:
