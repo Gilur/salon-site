@@ -41,14 +41,11 @@ menu:
       url: 
       weight: 30
     - name: Afspeak Maken
-      url: 
+      url: /afspraak-maken/
       weight: 40
     - name: Shop
-      url: 
+      url: https://beautybyechika.nl/nl/
       weight: 50
-    - name: Contact
-      url: 
-      weight: 60
   social:
     - name: Facebbok
       url: /
