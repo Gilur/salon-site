@@ -1,25 +1,24 @@
 baseURL: "/"
 languageCode: "nl"
-title: "Site Title"
+title: "Salon Beauty by Echika"
 
 # Params
 params:
-  author: M. Inam
-  email : inam@mail.com
-  tel: +41465656656
-  address:  'Lorem ipsum <br>
-   dolor sit amet <br>
-   consectetur adipisicing elit'
+  author: Beauty by Echika
+  email : info@beautybyechika.nl
+  tel: 0850608912
+  address:  'Luringstraat 10 <br>
+   9591BD Onstwedde'
   timings:
-    - day:  Monday
+    - day:  Maandag
       time: 10:00-17:00
-    - day:  Tuesday
+    - day:  Dinsdag
       time: 10:00-17:00
-    - day:  Wednesday
+    - day:  Woensdag
       time: 10:00-17:00
-    - day:  Thursday
+    - day:  Donderdag
       time: 10:00-17:00
-    - day:  Friday
+    - day:  Vrijdag
       time: 10:00-17:00
 # build and other other setup
 build:
