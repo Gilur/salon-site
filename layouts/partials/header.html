@@ -1,7 +1,7 @@
-<header class="text-white py-4 relative"
-  style="background: url(/{{((.Resources.GetMatch .Params.image))}}) no-repeat;background-size:cover;">
-  <div class="absolute left-0 top-0 w-full h-full bg-black bg-opacity-20"></div>
-  <div class="container flex justify-between items-center">
+<header class="text-white py-4 relative bg-black">
+  <div class="absolute left-0 top-0 w-full h-full" 
+  style="background: url(/{{((.Resources.GetMatch .Params.image))}}) no-repeat;background-size:cover;"></div>
+  <div class="container flex justify-between items-center relative">
     <div class="">
       <ul class="flex gap-2 lg:gap-4">
         {{ range .Site.Menus.social -}}
@@ -35,7 +35,7 @@
     </button>
   </div>
   <br><br><br><br><br>
-  <div class="container flex justify-center py-4">
+  <div class="container flex justify-center py-4 relative">
     <a href="{{ .Site.Home.Permalink}}">
       <img src="/logo.svg" alt="logo" class="w-48 h-48">
       {{/* {{ .Site.Title }} */}}
