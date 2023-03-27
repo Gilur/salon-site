@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2023-03-11T18:30:38+05:00
-image: pexels-adrien-olichon-2387793.jpg
+image: salon-bg.png
 section1:
   card:
     - img: "pexels-airam-datoon-15883131.jpg"
