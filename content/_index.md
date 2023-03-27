@@ -17,7 +17,7 @@ section1:
       text: Get ready with us! Laat je haar compleet verzorgen voor een bruiloft of feestje.
   link:
     text: Maak direct een afspraak
-    url: /afspraak/
+    url: /afspraak-maken/
     icon: 
 
 
