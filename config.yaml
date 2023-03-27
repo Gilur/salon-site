@@ -40,7 +40,7 @@ menu:
     - name: Portfolio
       url: 
       weight: 30
-    - name: Afspeak Maken
+    - name: Afspraak Maken
       url: /afspraak-maken/
       weight: 40
     - name: Shop
