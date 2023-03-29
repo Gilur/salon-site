@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2023-03-11T18:30:38+05:00
-image: bg-salon.png
+image: /img/bg-salon.png
 section1:
   card:
     - img: "hairextensions.png"

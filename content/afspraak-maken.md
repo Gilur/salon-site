@@ -1,7 +1,7 @@
 ---
 title: "Afspraak maken"
 date: 2023-03-25T17:22:04+05:00
-image: "bg-salon.png"
+image: "/img/bg-salon.png"
 
 ---
 
