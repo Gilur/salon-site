@@ -34,10 +34,10 @@ menu:
       url: /
       weight: 10
     - name: Over Ons
-      url: 
+      url: https://beautybyechika.nl/nl/content/4-over-ons
       weight: 20
     - name: Portfolio
-      url: 
+      url: /portfolio/
       weight: 30
     - name: Afspraak Maken
       url: /afspraak-maken/
