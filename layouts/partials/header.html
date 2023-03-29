@@ -6,9 +6,9 @@
       <ul class="flex gap-2 lg:gap-4">
         {{ range .Site.Menus.social -}}
         <li>
-          <a href="{{.URL}}">
+          <a href="{{.URL}}" target="_blank">
             <span class="sr-only">{{ .Name }}</span>
-            <img target="_blank" src="/{{.Pre}}" alt="" class="w-6 lg:w-8 h-8">
+            <img src="/{{.Pre}}" alt="" class="w-6 lg:w-8 h-8">
           </a>
         </li>
         {{ end -}}
