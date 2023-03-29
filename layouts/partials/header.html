@@ -6,7 +6,7 @@
       <ul class="flex gap-2 lg:gap-4">
         {{ range .Site.Menus.social -}}
         <li>
-          <a href="{{.URL}}">
+          <a href="{{.URL}}" target="_blank">
             <span class="sr-only">{{ .Name }}</span>
             <img src="/{{.Pre}}" alt="" class="w-6 lg:w-8 h-8">
           </a>
@@ -34,11 +34,24 @@
       </svg>
     </button>
   </div>
-  <br><br><br><br><br>
-  <div class="container flex justify-center py-4 relative">
+  <br><br>
+  <div class="container flex sm:justify-center py-4 relative">
     <a href="{{ .Site.Home.Permalink}}">
-      <img src="/logo.svg" alt="logo" class="w-48 h-48">
+      <img src="/salon-echika.png" alt="logo" class="w-60">
       {{/* {{ .Site.Title }} */}}
     </a>
   </div>
+<script type="text/javascript">
+window.Trengo = window.Trengo || {};
+window.Trengo.key = '2l1Z6zujwZTwXqBaBfKI';
+(function(d, script, t) {
+    script = d.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.src = 'https://static.widget.trengo.eu/embed.js';
+    d.getElementsByTagName('head')[0].appendChild(script);
+}(document));
+</script>
+  
+ <div class="salonized-booking" data-company="TkzW1QHX7E264iSmCZXoHNDs" data-color="#404043" data-language="nl" data-height="700" data-position="left" data-outline="shadow"></div><script src="https://static-widget.salonized.com/loader.js"></script> 
 </header>

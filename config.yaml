@@ -6,9 +6,8 @@ title: "Salon Beauty by Echika"
 params:
   author: Beauty by Echika
   email : info@beautybyechika.nl
-  tel: +0850608912
-  address:  'Luringstraat 10 <br>
-   9591BD Onstwedde'
+  tel: '+0850608912'
+  address:  'Beauty by Echika<br>Luringstraat 10<br>9591BD Onstwedde<br>Nederland'
   timings:
     - day:  Maandag
       time: 10:00-17:00
@@ -35,10 +34,10 @@ menu:
       url: /
       weight: 10
     - name: Over Ons
-      url: 
+      url: https://beautybyechika.nl/nl/content/4-over-ons
       weight: 20
     - name: Portfolio
-      url: 
+      url: /portfolio/
       weight: 30
     - name: Afspraak Maken
       url: /afspraak-maken/
@@ -47,17 +46,17 @@ menu:
       url: https://beautybyechika.nl/nl/
       weight: 50
   social:
-    - name: Facebbok
-      url: /
-      pre: linkedin.svg
-      weight: 10
-    - name: Twitter
-      url: 
-      pre: linkedin.svg
+    - name: Facebook
+      url: https://www.facebook.com/beautybyechika
+      pre: fb.png
       weight: 20
     - name: Instagram
-      url: 
-      pre: linkedin.svg
+      url: https://www.instagram.com/beautybyechika
+      pre: insta.png
+      weight: 10
+    - name: Pintrest
+      url: https://www.pinterest.ca/beautybyechika
+      pre: pin.png
       weight: 30
 
 security:
