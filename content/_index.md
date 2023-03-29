@@ -10,7 +10,7 @@ section1:
     - img: "paint.png"
       title: Kleuren
       text: I.c.m. onze extensions, verven we ook jouw haar. Balyage, babylights of felle kleuren? Niks is ons te gek!
-    - img: "hairextensions.png"
+    - img: "haarstuk.png"
       title: Aanmeten/passen van haarstukken
       text: Wil je graag advies op maat voor een passende pruik of haarstuk uit onze winkel? Maak gerust een afspraak en we helpen je graag!
     - img: "styling.png"
