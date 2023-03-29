@@ -4,16 +4,16 @@ date: 2023-03-11T18:30:38+05:00
 image: bg-salon.png
 section1:
   card:
-    - img: "pexels-airam-datoon-15883131.jpg"
+    - img: "extensions.png"
       title: Hair Extensions
       text: Altijd al gedroomd van prachtig haar? We've got your back! Doormiddel van Echika's eigen Weave methode of onze Tape Wefts laten we je stralen. Of je nou enkel meer volume of juist een complete make-over wilt, dan ben je bij ons in goede handen.
-    - img: "pexels-airam-datoon-15883131.jpg"
+    - img: "paint.png"
       title: Kleuren
       text: I.c.m. onze extensions, verven we ook jouw haar. Balyage, babylights of felle kleuren? Niks is ons te gek!
-    - img: "pexels-airam-datoon-15883131.jpg"
+    - img: "styling.png"
       title: Aanmeten/passen van haarstukken
       text: Wil je graag advies op maat voor een passende pruik of haarstuk uit onze winkel? Maak gerust een afspraak en we helpen je graag!
-    - img: "pexels-airam-datoon-15883131.jpg"
+    - img: "styling.png"
       title: Styling
       text: Get ready with us! Laat je haar compleet verzorgen voor een bruiloft of feestje.
   link:
