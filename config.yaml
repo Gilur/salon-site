@@ -60,7 +60,7 @@ menu:
       weight: 30
     - name: TikTok
       url: https://www.tiktok.com/@beautybyechika
-      pre: tiktok.png
+      pre: tiktok2.png
       weight: 40
 
 security:
