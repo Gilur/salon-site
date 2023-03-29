@@ -58,6 +58,10 @@ menu:
       url: https://www.pinterest.ca/beautybyechika
       pre: pin.png
       weight: 30
+    - name: TikTok
+      url: https://www.tiktok.com/@beautybyechika
+      pre: tiktok.png
+      weight: 40
 
 security:
   enableInlineShortcodes: false
