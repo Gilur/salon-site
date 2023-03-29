@@ -28,7 +28,7 @@ section2:
     - img: "giul.png"
       title: Guilia
       text: Kleur & Hairextension Specialist
-    - img: "echika-salon.png"
+    - img: "echika2.png"
       title: Echika
       text: Hairextension & Haarwerk Specialist
     - img: "kim.png"
