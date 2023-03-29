@@ -49,11 +49,11 @@ menu:
     - name: Facebook
       url: https://www.facebook.com/beautybyechika
       pre: fb.png
-      weight: 10
+      weight: 20
     - name: Instagram
       url: https://www.instagram.com/beautybyechika
       pre: insta.png
-      weight: 20
+      weight: 10
     - name: Pintrest
       url: https://www.pinterest.ca/beautybyechika
       pre: pin.png
