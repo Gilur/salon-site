@@ -4,7 +4,7 @@ date: 2023-03-11T18:30:38+05:00
 image: bg-salon.png
 section1:
   card:
-    - img: "extensions.png"
+    - img: "extensions2.png"
       title: Hair Extensions
       text: Altijd al gedroomd van prachtig haar? We've got your back! Doormiddel van Echika's eigen Weave methode of onze Tape Wefts laten we je stralen. Of je nou enkel meer volume of juist een complete make-over wilt, dan ben je bij ons in goede handen.
     - img: "paint.png"
