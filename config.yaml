@@ -46,17 +46,17 @@ menu:
       url: https://beautybyechika.nl/nl/
       weight: 50
   social:
-    - name: Facebbok
-      url: /
-      pre: linkedin.svg
+    - name: Facebook
+      url: https://www.facebook.com/beautybyechika
+      pre: fb.png
       weight: 10
-    - name: Twitter
-      url: 
-      pre: linkedin.svg
-      weight: 20
     - name: Instagram
-      url: 
-      pre: linkedin.svg
+      url: https://www.instagram.com/beautybyechika
+      pre: insta.png
+      weight: 20
+    - name: Pintrest
+      url: https://www.pinterest.ca/beautybyechika
+      pre: pin.png
       weight: 30
 
 security:
