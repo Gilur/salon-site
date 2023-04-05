@@ -1,5 +1,5 @@
 ---
-title: "Portofolio"
+title: "Portfolio"
 date: 2023-03-25T17:22:04+05:00
 image: "/img/bg-salon.png"
 
