@@ -19,18 +19,18 @@ image: "/img/bg-salon.png"
   flex-wrap: wrap;
 }
 
-.image01 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-01.jpg'); }
-.image02 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-02.jpg'); }
-.image03 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-03.jpg'); }
-.image04 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-04.jpg'); }
-.image05 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-05.jpg'); }
-.image06 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-06.jpg'); }
-.image07 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-07.jpg'); }
-.image08 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-08.jpg'); }
-.image09 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-09.jpg'); }
-.image10 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-10.jpg'); }
-.image11 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-11.jpg'); }
-.image12 { background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/409269/food-drink-12.jpg'); }
+.image01 { background-image: url('https://salon.beautybyechika.nl/img/after1.jpg'); }
+.image02 { background-image: url('https://salon.beautybyechika.nl/img/after2.jpg'); }
+.image03 { background-image: url('https://salon.beautybyechika.nl/img/after3.jpg'); }
+.image04 { background-image: url('https://salon.beautybyechika.nl/img/after4.jpg'); }
+.image05 { background-image: url('https://salon.beautybyechika.nl/img/after5.jpg'); }
+.image06 { background-image: url('https://salon.beautybyechika.nl/img/after6.jpg'); }
+.image07 { background-image: url('https://salon.beautybyechika.nl/img/after7.jpg'); }
+.image08 { background-image: url('https://salon.beautybyechika.nl/img/after8.jpg'); }
+.image09 { background-image: url('https://salon.beautybyechika.nl/img/after9.jpg'); }
+.image10 { background-image: url('https://salon.beautybyechika.nl/img/after10.jpg'); }
+.image11 { background-image: url('https://salon.beautybyechika.nl/img/after11.jpg'); }
+.image12 { background-image: url('https://salon.beautybyechika.nl/img/after12.jpg'); }
 
 @media screen and (max-width: 400px) {
   .image-grid {
