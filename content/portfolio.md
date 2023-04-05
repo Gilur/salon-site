@@ -8,7 +8,7 @@ image: "/img/bg-salon.png"
   html, body { padding: 0; margin: 0; }
 .image-grid div {
   width: 25%;
-  height: 240px;
+  height: 340px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
