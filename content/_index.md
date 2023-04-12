@@ -25,9 +25,9 @@ section1:
 section2:
   heading: Meet the team
   card:
-    - img: "giul.png"
-      title: Guilia
-      text: Kleur & Hairextension Specialist
+    - img: "olivia.png"
+      title: Olivia
+      text: Hairextension Specialist
     - img: "echika2.png"
       title: Echika
       text: Hairextension & Haarwerk Specialist
