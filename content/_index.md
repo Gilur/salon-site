@@ -33,5 +33,5 @@ section2:
       text: Hairextension & Haarwerk Specialist
     - img: "kim.png"
       title: Kim
-      text: Hairextension Specialist.
+      text: Hairextension Specialist
 ---
