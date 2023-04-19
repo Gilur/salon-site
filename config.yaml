@@ -45,6 +45,9 @@ menu:
     - name: Shop
       url: https://beautybyechika.nl/nl/
       weight: 50
+    - name: Prijzenlijst
+      url: /prijzenlijst/
+      weight: 60
   social:
     - name: Facebook
       url: https://www.facebook.com/beautybyechika
