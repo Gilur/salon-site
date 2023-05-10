@@ -25,13 +25,13 @@ section1:
 section2:
   heading: Meet the team
   card:
-    - img: "olivia.png"
+    - img: "olivia1.jpg"
       title: Olivia
       text: Hairextension Specialist
-    - img: "echika2.png"
+    - img: "echika1.jpg"
       title: Echika
       text: Hairextension & Haarwerk Specialist
-    - img: "kim.png"
+    - img: "kim1.jpg"
       title: Kim
       text: Hairextension Specialist
 ---
